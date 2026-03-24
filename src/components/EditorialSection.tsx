@@ -40,15 +40,15 @@ const EditorialSection = () => {
           {/* Right column */}
           <div className="lg:col-span-8 space-y-8">
             <p className="font-sans font-light text-lg md:text-xl text-foreground leading-relaxed">
-              The US construction market is under pressure. Labor is constrained, costs are rising, and timelines are extending. The skilled masonry workforce continues to shrink while demand for housing and infrastructure grows.
+              The US construction market is under pressure. Labor is constrained, costs are rising, and timelines are extending. The skilled masonry workforce continues to shrink while demand for housing and infrastructure keeps on growing.
             </p>
 
             <p className="font-sans font-light text-lg md:text-xl text-foreground leading-relaxed">
-              Monumental offers an autonomous and future-proof solution. Our robots carry out production work without any process change, while ensuring quality and aesthetics. The robots are flexible and can be deployed 24/7 without lengthy preliminary processes.
+              Monumental provides an autonomous solution for this. Robots take on additional construction work without requiring any changes to existing processes. They operate alongside your crew, maintaining quality and aesthetic standards while increasing output. The system has proven to be flexible, without lengthy setup or integration.
             </p>
 
             <p className="font-sans font-light text-lg md:text-xl text-foreground leading-relaxed">
-              We’ve been operating across Europe since 2021, working on residential buildings, infrastructure projects, and commercial developments. Our systems lay brick to architectural specifications, integrate with existing site workflows, and operate alongside construction teams.
+              We’ve been operating across Europe since 2021, working on residential buildings and infrastructure projects. Our systems support a wide range of masonry bonds and detailing while maintaining the intended design.
             </p>
 
             <p className="font-sans font-light text-lg md:text-xl text-foreground leading-relaxed">
@@ -58,7 +58,7 @@ const EditorialSection = () => {
             <div className="pt-4">
               <button
                 onClick={scrollToContact}
-                className="font-sans font-light text-base md:text-lg text-foreground px-8 py-4 border border-[#f74823] hover:bg-[#f74823]/5 transition-all duration-200 tracking-wide"
+                className="font-sans font-light text-base md:text-lg text-foreground px-8 py-4 border border-[#f74823] hover:rounded-br-[32px] transition-all duration-300 tracking-wide"
               >
                 Get in touch
               </button>

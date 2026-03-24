@@ -84,7 +84,7 @@ const ProofSection = () => {
 
         <h2 className="font-serif text-3xl md:text-4xl text-foreground mb-4">What we've built so far</h2>
         <p className="font-sans font-light text-base text-muted-foreground max-w-2xl">
-          From residential developments to commercial projects, our automated bricklaying technology is transforming construction sites across Europe.
+          From residential developments to essential infrastructure, our automated bricklaying technology is transforming construction sites across Europe.
         </p>
       </div>
 
