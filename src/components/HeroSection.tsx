@@ -9,10 +9,12 @@ const HeroSection = () => {
           muted
           loop
           playsInline
-          className="w-full h-full object-cover scale-110"
-          style={{ objectPosition: "center 40%" }}
+          className="w-full h-full object-cover scale-[1.18] md:scale-[1.15] lg:scale-[1.12]"
+          style={{ objectPosition: "center 28%" }}
         />
         <div className="absolute inset-0 bg-foreground/60" />
+        {/* Bottom gradient to hide branding */}
+        <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-foreground/90 via-foreground/40 to-transparent" />
       </div>
 
       {/* Headline (BOTTOM LEFT) */}
