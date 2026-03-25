@@ -27,7 +27,7 @@ const HeroSection = () => {
       {/* Supporting text (BOTTOM RIGHT) */}
       <div className="absolute bottom-12 right-6 md:right-12 lg:right-20 z-10">
         <p className="font-sans font-light text-white/80 text-lg md:text-xl lg:text-4xl tracking-wide text-right leading-snug">
-          Operating across Europe, yytj
+          Operating across Europe,
           <br />
           now launching in the US.
         </p>
